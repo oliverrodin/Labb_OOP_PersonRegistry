@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonRegistryUI", "PersonRegistryUI\PersonRegistryUI.csproj", "{231E4E93-B7A0-4874-8E9C-B730932009F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesLibrary", "ClassesLibrary\ClassesLibrary.csproj", "{9D590EDB-9E27-406F-A4E9-C155B8EF3B30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{231E4E93-B7A0-4874-8E9C-B730932009F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{231E4E93-B7A0-4874-8E9C-B730932009F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{231E4E93-B7A0-4874-8E9C-B730932009F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{231E4E93-B7A0-4874-8E9C-B730932009F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D590EDB-9E27-406F-A4E9-C155B8EF3B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D590EDB-9E27-406F-A4E9-C155B8EF3B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D590EDB-9E27-406F-A4E9-C155B8EF3B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D590EDB-9E27-406F-A4E9-C155B8EF3B30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9D9095B-1E81-40DD-946B-4E1C3661461E}
+	EndGlobalSection
+EndGlobal
