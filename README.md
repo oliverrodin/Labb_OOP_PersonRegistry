@@ -1,5 +1,5 @@
 # Labb_OOP_PersonRegistry
-Detta är en labb i kursen Grundläggande objektorienterad programmering. Gjord 2022-10-28.
+Detta är en labb i kursen Grundläggande objektorienterad programmering. Gjord 2022-11-28.
 
 # Beskrivning
 
